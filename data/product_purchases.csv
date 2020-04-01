@@ -1,0 +1,1001 @@
+"id","nps_score","subscribed_to_newsletter","interests","number_of_purchases"
+1462,3,"FALSE","Fly Fishing",8
+1491,2,"TRUE","Fly Fishing",14
+1492,,"TRUE","Fly Fishing",13
+1551,,"FALSE","Fly Fishing",12
+1553,,"FALSE","Fly Fishing",10
+1648,9,"FALSE","Fly Fishing",19
+1770,,"TRUE","Fly Fishing",21
+1885,,"TRUE","Fly Fishing",21
+1902,6,"FALSE","Fly Fishing",13
+1921,4,"TRUE","Fly Fishing",19
+1923,2,"FALSE","Fly Fishing",16
+1826,8,"FALSE","Fly Fishing",11
+1830,8,"FALSE","Fly Fishing",13
+1838,,"TRUE","Fly Fishing",15
+1002,,"FALSE","Surfing",18
+1333,3,"TRUE","Fly Fishing",17
+1367,,"TRUE","Fly Fishing",13
+1422,10,"TRUE","Fly Fishing",16
+1402,,"TRUE","Fly Fishing",16
+1043,,"TRUE","Fly Fishing",21
+1100,,"FALSE","Fly Fishing",21
+1171,,"FALSE","Fly Fishing",15
+1041,,"FALSE","Trail Running",16
+1053,10,"FALSE","Mountain Biking",17
+1056,,"FALSE","Trail Running",14
+1058,,"TRUE","Trail Running",18
+1060,7,"TRUE","Ski/Snowboarding",11
+1065,,"TRUE","Surfing",20
+1066,,"FALSE",,17
+1067,,"FALSE","Climbing",10
+1084,7,"FALSE","Trail Running",15
+1085,,"FALSE","Climbing",13
+1093,2,"FALSE","Mountain Biking",20
+1101,,"TRUE","Climbing",18
+1107,,"FALSE","Surfing",11
+1112,,"FALSE","Trail Running",13
+1116,6,"FALSE","Ski/Snowboarding",18
+1119,,"TRUE","Surfing",21
+1130,10,"TRUE","Surfing",19
+1138,,"FALSE","Ski/Snowboarding",16
+1147,3,"FALSE",,21
+1159,6,"FALSE","Climbing",21
+1164,6,"FALSE",,13
+1177,,"FALSE","Surfing",15
+1178,8,"TRUE","Climbing",18
+1998,,"TRUE","Ski/Snowboarding",10
+1180,5,"FALSE","Trail Running",14
+1182,3,"FALSE","Mountain Biking",4
+1190,,"TRUE","Climbing",20
+1197,,"FALSE",,12
+1199,8,"FALSE","Climbing",15
+1203,,"TRUE",,11
+1210,,"FALSE","Ski/Snowboarding",19
+1222,,"TRUE","Mountain Biking",12
+1223,3,"FALSE","Surfing",17
+1226,,"FALSE","Trail Running",7
+1227,,"TRUE","Climbing",23
+1231,5,"TRUE","Trail Running",23
+1237,6,"FALSE","Mountain Biking",14
+1245,,"TRUE","Surfing",17
+1247,,"TRUE","Trail Running",16
+1248,8,"TRUE","Mountain Biking",25
+1249,,"TRUE",,14
+1252,,"FALSE","Climbing",10
+1258,8,"TRUE","Climbing",10
+1261,2,"FALSE","Ski/Snowboarding",22
+1266,1,"FALSE","Trail Running",26
+1268,,"FALSE",,18
+1281,4,"FALSE","Mountain Biking",19
+1290,9,"FALSE",,24
+1295,,"FALSE","Trail Running",20
+1297,,"TRUE","Mountain Biking",20
+1301,,"FALSE",,17
+1307,6,"FALSE","Mountain Biking",11
+1319,,"TRUE","Ski/Snowboarding",12
+1323,10,"TRUE","Ski/Snowboarding",16
+1330,1,"TRUE",,7
+1335,8,"TRUE","Mountain Biking",15
+1339,7,"FALSE",,16
+1346,,"FALSE","Mountain Biking",19
+1349,6,"TRUE",,16
+1358,,"TRUE","Surfing",17
+1360,1,"FALSE","Ski/Snowboarding",16
+1373,,"FALSE","Mountain Biking",22
+1374,,"FALSE","Climbing",18
+1381,3,"TRUE","Ski/Snowboarding",18
+1390,9,"TRUE",,15
+1391,8,"TRUE","Surfing",24
+1393,1,"TRUE","Ski/Snowboarding",6
+1396,,"FALSE","Climbing",19
+1399,,"FALSE","Surfing",14
+1405,,"FALSE","Mountain Biking",16
+1406,10,"FALSE","Surfing",17
+1412,,"FALSE","Climbing",21
+1428,8,"TRUE","Mountain Biking",21
+1436,3,"TRUE","Mountain Biking",14
+1454,,"TRUE","Surfing",24
+1481,,"TRUE","Ski/Snowboarding",13
+1489,2,"FALSE",,18
+1490,4,"TRUE","Ski/Snowboarding",19
+1494,,"FALSE","Trail Running",16
+1496,4,"FALSE","Surfing",24
+1498,,"TRUE","Ski/Snowboarding",20
+1499,,"FALSE","Trail Running",20
+1511,,"TRUE","Ski/Snowboarding",13
+1528,,"TRUE","Surfing",10
+1530,,"TRUE",,21
+1533,,"TRUE","Mountain Biking",12
+1537,4,"TRUE","Climbing",14
+1540,9,"FALSE","Ski/Snowboarding",18
+1541,,"TRUE","Surfing",14
+1552,10,"FALSE","Trail Running",19
+1557,,"FALSE","Climbing",16
+1565,9,"TRUE","Ski/Snowboarding",16
+1573,,"TRUE",,16
+1586,5,"FALSE","Mountain Biking",14
+1593,,"TRUE",,13
+1598,3,"FALSE","Surfing",18
+1600,,"TRUE","Surfing",14
+1603,,"TRUE",,21
+1604,,"TRUE","Mountain Biking",25
+1607,2,"FALSE",,16
+1609,,"FALSE","Mountain Biking",12
+1610,,"TRUE",,22
+1612,,"FALSE","Climbing",12
+1613,7,"TRUE","Surfing",13
+1616,7,"FALSE","Mountain Biking",24
+1621,,"TRUE","Ski/Snowboarding",12
+1625,7,"TRUE","Surfing",19
+1632,,"FALSE","Mountain Biking",13
+1646,,"FALSE","Ski/Snowboarding",20
+1649,3,"TRUE","Climbing",20
+1657,7,"TRUE","Climbing",20
+1661,6,"FALSE","Ski/Snowboarding",22
+1663,,"FALSE","Surfing",18
+1666,,"FALSE","Trail Running",7
+1667,9,"TRUE",,16
+1673,3,"TRUE","Climbing",19
+1678,7,"TRUE","Mountain Biking",17
+1680,,"TRUE",,16
+1688,,"FALSE","Surfing",18
+1689,9,"TRUE","Mountain Biking",18
+1697,,"TRUE",,10
+1698,,"TRUE","Climbing",20
+1318,9,"FALSE",,18
+1702,10,"FALSE","Surfing",15
+1718,,"TRUE","Trail Running",10
+1719,,"FALSE",,17
+1724,,"FALSE","Surfing",16
+1725,,"TRUE",,11
+1726,7,"TRUE","Trail Running",12
+1729,10,"FALSE","Surfing",14
+1751,,"FALSE","Mountain Biking",13
+1752,6,"FALSE","Ski/Snowboarding",13
+1760,,"FALSE",,21
+1763,,"FALSE","Trail Running",18
+1771,,"FALSE",,19
+1782,,"FALSE","Climbing",16
+1802,,"TRUE","Trail Running",5
+1805,,"TRUE",,19
+1822,,"TRUE",,17
+1827,,"TRUE","Climbing",22
+1829,,"TRUE","Trail Running",9
+1831,,"FALSE","Trail Running",12
+1837,9,"TRUE","Trail Running",13
+1851,9,"TRUE","Climbing",20
+1854,,"FALSE","Climbing",8
+1855,,"TRUE",,20
+1860,,"FALSE","Mountain Biking",16
+1861,7,"TRUE",,16
+1863,6,"TRUE",,25
+1870,5,"FALSE","Climbing",21
+1884,,"TRUE","Surfing",14
+1887,,"TRUE","Mountain Biking",18
+1890,,"TRUE",,18
+1897,,"TRUE","Trail Running",15
+1899,,"FALSE",,10
+1909,,"FALSE","Surfing",13
+1910,,"FALSE","Surfing",7
+1913,4,"TRUE",,14
+1925,1,"FALSE","Climbing",17
+1929,2,"TRUE",,21
+1931,6,"TRUE",,22
+1935,,"TRUE","Mountain Biking",18
+1941,6,"TRUE",,20
+1949,3,"TRUE",,27
+1207,,"FALSE","Fly Fishing",9
+1218,9,"TRUE","Fly Fishing",16
+1256,4,"TRUE","Fly Fishing",14
+1279,,"TRUE","Fly Fishing",18
+1321,5,"FALSE","Fly Fishing",12
+1563,,"TRUE",,15
+1001,,"FALSE","Fly Fishing",18
+1005,7,"TRUE",,18
+1008,,"FALSE","Trail Running",18
+1013,10,"TRUE","Mountain Biking",19
+1014,,"TRUE",,16
+1016,,"TRUE",,15
+1024,,"FALSE","Surfing",16
+1003,6,"TRUE","Climbing",15
+1004,,"TRUE","Ski/Snowboarding",18
+1006,9,"FALSE",,19
+1007,,"TRUE",,18
+1009,,"FALSE","Climbing",10
+1010,3,"TRUE","Ski/Snowboarding",12
+1011,,"TRUE","Trail Running",12
+1012,1,"TRUE","Climbing",21
+1015,,"FALSE","Trail Running",13
+1017,,"FALSE","Surfing",18
+1018,,"FALSE","Mountain Biking",10
+1019,,"FALSE","Surfing",20
+1020,,"FALSE",,18
+1021,7,"FALSE","Ski/Snowboarding",16
+1022,2,"TRUE","Surfing",12
+1023,,"FALSE","Mountain Biking",25
+1025,2,"FALSE",,13
+1026,9,"FALSE","Surfing",13
+1027,1,"TRUE","Trail Running",18
+1028,6,"TRUE",,20
+1029,3,"TRUE",,11
+1030,,"TRUE",,10
+1973,,"TRUE","Surfing",20
+1031,4,"TRUE","Trail Running",11
+1033,4,"TRUE","Ski/Snowboarding",14
+1034,4,"TRUE","Trail Running",17
+1035,1,"FALSE","Ski/Snowboarding",18
+1036,,"FALSE",,12
+1037,,"FALSE","Mountain Biking",20
+1038,1,"TRUE","Surfing",15
+1039,9,"TRUE","Climbing",18
+1040,,"FALSE","Surfing",8
+1045,1,"TRUE","Climbing",8
+1042,,"FALSE",,11
+1046,,"FALSE","Surfing",11
+1047,,"FALSE",,20
+1048,,"TRUE","Ski/Snowboarding",14
+1049,,"TRUE","Surfing",15
+1050,,"TRUE","Ski/Snowboarding",21
+1051,,"TRUE","Mountain Biking",23
+1052,7,"FALSE","Surfing",17
+1054,5,"FALSE","Ski/Snowboarding",14
+1055,6,"TRUE",,11
+1032,,"TRUE","Fly Fishing",18
+1057,5,"FALSE","Ski/Snowboarding",14
+1044,,"FALSE","Fly Fishing",15
+1059,,"FALSE","Trail Running",19
+1074,,"FALSE","Fly Fishing",12
+1061,9,"FALSE","Climbing",17
+1062,,"TRUE",,20
+1063,,"FALSE",,10
+1064,6,"FALSE",,13
+1068,,"TRUE","Climbing",14
+1069,9,"TRUE","Ski/Snowboarding",15
+1070,,"FALSE","Ski/Snowboarding",10
+1071,1,"FALSE","Climbing",16
+1072,7,"TRUE","Mountain Biking",16
+1073,4,"TRUE","Mountain Biking",12
+1075,,"FALSE","Trail Running",12
+1076,,"TRUE","Ski/Snowboarding",15
+1077,,"FALSE",,14
+1078,3,"FALSE","Mountain Biking",16
+1079,5,"FALSE","Trail Running",15
+1080,,"FALSE","Ski/Snowboarding",13
+1081,,"TRUE","Climbing",19
+1082,9,"TRUE","Surfing",11
+1083,,"FALSE",,13
+1089,,"TRUE",,21
+1086,,"TRUE","Climbing",16
+1087,3,"FALSE","Ski/Snowboarding",20
+1088,9,"FALSE","Mountain Biking",21
+1090,,"FALSE",,13
+1091,,"FALSE",,13
+1097,8,"TRUE","Mountain Biking",12
+1094,,"TRUE","Surfing",20
+1095,,"FALSE","Trail Running",16
+1099,5,"TRUE","Ski/Snowboarding",16
+1102,,"FALSE","Mountain Biking",22
+1103,,"TRUE",,16
+1104,4,"FALSE","Surfing",13
+1108,2,"FALSE","Mountain Biking",18
+1109,9,"TRUE",,18
+1110,4,"FALSE","Mountain Biking",14
+1111,3,"TRUE","Surfing",26
+1113,9,"TRUE","Mountain Biking",17
+1114,,"TRUE","Surfing",17
+1117,,"FALSE",,20
+1118,7,"FALSE","Mountain Biking",16
+1121,,"TRUE","Ski/Snowboarding",16
+1122,,"TRUE",,18
+1123,,"FALSE","Mountain Biking",13
+1125,,"TRUE",,27
+1126,,"FALSE","Ski/Snowboarding",14
+1127,,"FALSE","Ski/Snowboarding",15
+1128,,"FALSE",,11
+1131,8,"FALSE","Climbing",17
+1132,,"FALSE","Climbing",10
+1133,,"FALSE","Ski/Snowboarding",15
+1134,4,"FALSE","Ski/Snowboarding",17
+1135,10,"TRUE","Trail Running",18
+1136,,"TRUE","Trail Running",19
+1137,3,"FALSE","Trail Running",17
+1092,,"FALSE","Fly Fishing",22
+1096,,"TRUE","Fly Fishing",16
+1098,7,"FALSE","Fly Fishing",15
+1105,,"TRUE","Fly Fishing",8
+1106,,"FALSE","Fly Fishing",17
+1115,,"TRUE","Fly Fishing",17
+1120,,"TRUE","Fly Fishing",24
+1124,,"TRUE","Fly Fishing",18
+1129,,"TRUE","Fly Fishing",17
+1139,,"TRUE","Climbing",13
+1140,,"FALSE","Mountain Biking",19
+1141,7,"TRUE","Trail Running",22
+1142,7,"FALSE","Trail Running",17
+1143,6,"TRUE","Mountain Biking",15
+1144,5,"FALSE","Mountain Biking",19
+1148,,"TRUE",,15
+1149,,"TRUE",,26
+1150,,"TRUE","Mountain Biking",25
+1151,,"TRUE",,13
+1153,,"FALSE","Climbing",15
+1154,,"TRUE","Mountain Biking",12
+1155,6,"TRUE","Trail Running",15
+1156,,"TRUE","Mountain Biking",14
+1157,,"FALSE","Trail Running",15
+1158,,"TRUE","Mountain Biking",15
+1160,4,"FALSE",,16
+1161,,"TRUE","Ski/Snowboarding",11
+1162,2,"TRUE",,18
+1163,9,"FALSE","Surfing",14
+1165,,"TRUE","Surfing",17
+1166,,"TRUE","Ski/Snowboarding",13
+1167,,"TRUE","Ski/Snowboarding",9
+1168,,"FALSE",,8
+1169,,"FALSE","Mountain Biking",11
+1170,,"TRUE","Ski/Snowboarding",12
+1173,,"TRUE","Surfing",19
+1175,7,"FALSE","Climbing",19
+1176,,"TRUE","Surfing",15
+1179,,"FALSE","Ski/Snowboarding",16
+1181,,"TRUE","Mountain Biking",22
+1145,1,"TRUE","Fly Fishing",14
+1183,7,"TRUE","Surfing",16
+1184,,"FALSE","Mountain Biking",17
+1187,,"FALSE",,13
+1188,5,"FALSE","Ski/Snowboarding",22
+1189,,"TRUE",,18
+1146,,"FALSE","Fly Fishing",15
+1191,,"TRUE","Mountain Biking",12
+1192,,"FALSE","Trail Running",20
+1193,8,"TRUE",,16
+1152,,"TRUE","Fly Fishing",14
+1172,,"TRUE","Fly Fishing",17
+1174,,"TRUE","Fly Fishing",11
+1185,,"FALSE","Fly Fishing",22
+1186,,"TRUE","Fly Fishing",14
+1194,,"TRUE",,12
+1196,,"TRUE",,12
+1198,,"FALSE","Surfing",14
+1202,3,"TRUE",,9
+1204,6,"FALSE",,16
+1205,9,"TRUE","Climbing",12
+1206,,"FALSE",,18
+1208,,"FALSE","Surfing",16
+1209,,"TRUE","Mountain Biking",14
+1211,,"FALSE",,11
+1214,8,"FALSE",,14
+1215,,"TRUE","Climbing",14
+1216,7,"TRUE","Surfing",14
+1217,6,"TRUE","Surfing",13
+1219,,"TRUE","Trail Running",15
+1220,3,"FALSE","Mountain Biking",14
+1221,,"TRUE","Trail Running",14
+1195,,"TRUE","Fly Fishing",16
+1224,10,"FALSE","Trail Running",19
+1225,,"TRUE","Climbing",3
+1200,,"FALSE","Fly Fishing",11
+1201,1,"TRUE","Fly Fishing",22
+1228,4,"TRUE","Surfing",13
+1229,,"TRUE","Climbing",18
+1230,,"TRUE",,18
+1212,,"TRUE","Fly Fishing",17
+1233,,"TRUE",,21
+1234,,"FALSE","Trail Running",26
+1235,,"TRUE",,13
+1236,,"FALSE",,15
+1213,2,"TRUE","Fly Fishing",19
+1238,5,"TRUE","Trail Running",16
+1239,,"FALSE","Mountain Biking",16
+1240,4,"FALSE","Surfing",6
+1242,,"TRUE","Trail Running",14
+1243,4,"FALSE","Surfing",18
+1244,3,"FALSE","Ski/Snowboarding",19
+1232,,"TRUE","Fly Fishing",9
+1246,3,"TRUE","Surfing",12
+1241,2,"FALSE","Fly Fishing",12
+1251,,"TRUE",,20
+1253,,"FALSE","Trail Running",15
+1255,,"FALSE","Climbing",22
+1257,,"TRUE","Ski/Snowboarding",15
+1259,,"FALSE","Surfing",14
+1262,,"FALSE",,22
+1263,,"FALSE",,13
+1264,,"FALSE","Ski/Snowboarding",11
+1265,6,"TRUE","Climbing",15
+1267,,"FALSE","Surfing",19
+1269,,"FALSE","Climbing",18
+1270,2,"TRUE","Ski/Snowboarding",13
+1271,,"TRUE","Ski/Snowboarding",13
+1272,,"TRUE","Surfing",15
+1273,3,"TRUE","Mountain Biking",14
+1274,,"TRUE","Climbing",10
+1275,1,"TRUE","Surfing",9
+1276,5,"TRUE",,16
+1277,9,"TRUE","Mountain Biking",18
+1278,2,"TRUE","Trail Running",12
+1250,,"FALSE","Fly Fishing",9
+1285,,"FALSE","Ski/Snowboarding",15
+1286,3,"FALSE",,8
+1287,,"TRUE","Climbing",19
+1288,,"FALSE","Trail Running",11
+1289,6,"FALSE",,8
+1254,,"FALSE","Fly Fishing",12
+1291,,"TRUE","Ski/Snowboarding",9
+1292,,"FALSE",,16
+1293,6,"FALSE","Mountain Biking",16
+1294,,"FALSE","Trail Running",7
+1260,,"TRUE","Fly Fishing",11
+1296,,"TRUE",,16
+1280,3,"FALSE","Fly Fishing",22
+1299,4,"FALSE",,16
+1300,9,"FALSE","Trail Running",17
+1282,1,"FALSE","Fly Fishing",16
+1302,2,"TRUE","Surfing",21
+1283,1,"FALSE","Fly Fishing",15
+1284,,"TRUE","Fly Fishing",12
+1298,1,"FALSE","Fly Fishing",21
+1303,1,"FALSE","Ski/Snowboarding",18
+1304,4,"TRUE",,15
+1305,,"FALSE","Surfing",10
+1306,8,"FALSE","Climbing",12
+1308,,"TRUE","Ski/Snowboarding",12
+1309,6,"FALSE","Climbing",15
+1310,7,"FALSE","Trail Running",17
+1311,,"TRUE","Trail Running",19
+1312,3,"TRUE","Climbing",13
+1313,,"FALSE","Climbing",10
+1314,,"FALSE",,16
+1315,,"FALSE","Ski/Snowboarding",21
+1316,5,"FALSE","Mountain Biking",10
+1317,,"TRUE","Surfing",20
+1320,,"TRUE","Trail Running",21
+1324,9,"FALSE",,19
+1326,,"FALSE",,18
+1327,7,"TRUE",,18
+1328,3,"TRUE","Climbing",16
+1329,,"TRUE","Surfing",19
+1331,2,"TRUE","Climbing",20
+1332,,"FALSE","Trail Running",25
+1322,6,"FALSE","Fly Fishing",25
+1334,,"FALSE",,23
+1325,5,"TRUE","Fly Fishing",19
+1336,,"TRUE","Ski/Snowboarding",18
+1337,,"TRUE",,21
+1338,,"FALSE","Trail Running",17
+1343,,"FALSE","Fly Fishing",16
+1340,,"FALSE","Mountain Biking",18
+1341,,"FALSE","Trail Running",16
+1342,,"TRUE","Climbing",20
+1344,2,"FALSE","Mountain Biking",17
+1345,9,"TRUE",,15
+1353,1,"FALSE","Fly Fishing",12
+1347,10,"FALSE","Mountain Biking",15
+1348,,"FALSE","Surfing",10
+1355,,"FALSE","Fly Fishing",12
+1350,,"FALSE","Trail Running",13
+1351,8,"TRUE",,18
+1352,,"FALSE","Climbing",16
+1354,2,"TRUE","Surfing",18
+1356,,"TRUE","Trail Running",18
+1357,,"FALSE",,20
+1359,10,"FALSE","Trail Running",10
+1361,,"TRUE","Mountain Biking",18
+1362,,"FALSE","Mountain Biking",13
+1364,,"TRUE","Mountain Biking",16
+1366,10,"FALSE","Ski/Snowboarding",15
+1368,,"FALSE","Ski/Snowboarding",16
+1369,,"TRUE",,22
+1370,10,"TRUE","Surfing",9
+1371,,"FALSE","Ski/Snowboarding",15
+1372,,"TRUE","Climbing",13
+1375,,"FALSE",,11
+1376,9,"TRUE","Climbing",8
+1377,,"FALSE","Trail Running",19
+1379,3,"TRUE","Trail Running",12
+1382,,"FALSE","Ski/Snowboarding",24
+1384,4,"FALSE","Ski/Snowboarding",18
+1385,,"FALSE","Surfing",18
+1386,,"TRUE",,19
+1387,,"TRUE","Ski/Snowboarding",15
+1388,6,"TRUE","Mountain Biking",17
+1363,,"TRUE","Fly Fishing",22
+1392,9,"TRUE","Trail Running",12
+1365,,"TRUE","Fly Fishing",16
+1394,2,"FALSE","Surfing",18
+1395,6,"TRUE","Surfing",18
+1378,9,"TRUE","Fly Fishing",15
+1397,7,"FALSE",,14
+1398,1,"FALSE","Trail Running",16
+1380,2,"FALSE","Fly Fishing",24
+1400,3,"FALSE","Climbing",14
+1401,,"TRUE","Climbing",20
+1403,1,"TRUE","Ski/Snowboarding",18
+1404,8,"FALSE","Trail Running",14
+1383,,"FALSE","Fly Fishing",15
+1389,,"FALSE","Fly Fishing",8
+1407,,"TRUE","Mountain Biking",17
+1408,3,"TRUE",,16
+1409,,"FALSE","Climbing",13
+1410,,"TRUE","Trail Running",17
+1411,,"FALSE","Ski/Snowboarding",23
+1413,5,"FALSE",,8
+1414,,"TRUE","Mountain Biking",19
+1415,,"FALSE",,15
+1416,,"FALSE","Mountain Biking",16
+1417,,"TRUE","Ski/Snowboarding",20
+1418,,"FALSE","Trail Running",18
+1419,5,"FALSE","Climbing",13
+1420,,"TRUE","Ski/Snowboarding",16
+1421,1,"FALSE","Ski/Snowboarding",22
+1423,,"TRUE","Trail Running",14
+1424,,"TRUE","Climbing",16
+1425,5,"FALSE","Trail Running",14
+1426,,"FALSE",,17
+1427,,"FALSE","Ski/Snowboarding",16
+1429,,"FALSE","Ski/Snowboarding",15
+1430,,"TRUE",,13
+1431,7,"FALSE","Ski/Snowboarding",10
+1432,,"FALSE","Climbing",17
+1433,,"FALSE","Mountain Biking",18
+1434,1,"FALSE","Surfing",7
+1435,,"TRUE","Climbing",22
+1441,,"TRUE","Fly Fishing",22
+1437,2,"TRUE","Trail Running",10
+1438,,"FALSE",,9
+1439,3,"TRUE","Climbing",20
+1440,9,"TRUE","Ski/Snowboarding",15
+1442,5,"TRUE",,12
+1443,4,"TRUE","Trail Running",15
+1444,,"TRUE","Surfing",10
+1445,,"TRUE","Climbing",16
+1447,,"TRUE","Climbing",11
+1448,,"FALSE","Mountain Biking",16
+1449,,"FALSE",,19
+1450,,"FALSE",,20
+1451,,"FALSE",,11
+1452,,"TRUE",,18
+1453,6,"FALSE","Ski/Snowboarding",13
+1446,5,"TRUE","Fly Fishing",23
+1455,5,"TRUE","Climbing",13
+1456,,"TRUE","Surfing",8
+1457,3,"TRUE","Mountain Biking",15
+1458,3,"FALSE",,11
+1459,,"FALSE","Ski/Snowboarding",18
+1461,,"TRUE","Ski/Snowboarding",19
+1460,4,"TRUE","Fly Fishing",12
+1463,2,"FALSE","Trail Running",13
+1464,,"TRUE","Ski/Snowboarding",15
+1465,3,"FALSE","Surfing",12
+1467,7,"FALSE","Mountain Biking",11
+1468,10,"FALSE",,16
+1469,,"TRUE",,17
+1470,,"FALSE","Climbing",15
+1471,2,"TRUE",,17
+1472,,"TRUE","Ski/Snowboarding",23
+1473,6,"TRUE","Trail Running",18
+1474,,"FALSE",,12
+1475,6,"TRUE","Surfing",10
+1476,4,"FALSE","Surfing",11
+1477,1,"FALSE",,15
+1479,,"FALSE",,16
+1480,,"TRUE","Surfing",13
+1482,5,"FALSE","Trail Running",10
+1483,4,"FALSE",,14
+1484,,"TRUE","Surfing",11
+1485,,"FALSE",,15
+1486,,"TRUE","Surfing",12
+1487,4,"TRUE",,15
+1488,,"TRUE","Surfing",9
+1493,,"TRUE","Surfing",9
+1495,,"TRUE","Climbing",18
+1466,,"FALSE","Fly Fishing",16
+1497,10,"FALSE","Trail Running",13
+1478,7,"TRUE","Fly Fishing",8
+1507,,"FALSE","Fly Fishing",19
+1500,,"FALSE","Trail Running",12
+1501,,"TRUE","Ski/Snowboarding",13
+1502,,"FALSE","Climbing",10
+1503,,"FALSE",,17
+1504,8,"TRUE",,20
+1505,,"FALSE","Mountain Biking",18
+1506,,"TRUE","Climbing",11
+1508,8,"FALSE","Surfing",18
+1510,10,"FALSE",,11
+1509,6,"FALSE","Fly Fishing",26
+1513,,"FALSE","Surfing",13
+1514,,"TRUE","Ski/Snowboarding",15
+1515,,"TRUE",,13
+1516,2,"FALSE","Ski/Snowboarding",17
+1517,,"TRUE","Trail Running",18
+1519,2,"FALSE","Surfing",21
+1512,6,"FALSE","Fly Fishing",15
+1518,,"FALSE","Fly Fishing",19
+1520,,"TRUE","Ski/Snowboarding",17
+1521,2,"TRUE",,20
+1522,2,"TRUE","Surfing",13
+1523,,"TRUE","Surfing",31
+1524,4,"TRUE","Mountain Biking",23
+1525,,"TRUE","Trail Running",13
+1526,,"TRUE","Trail Running",10
+1527,2,"FALSE",,16
+1529,,"TRUE","Mountain Biking",15
+1531,,"TRUE",,17
+1532,,"TRUE",,15
+1550,,"TRUE","Fly Fishing",12
+1534,7,"TRUE","Ski/Snowboarding",22
+1535,10,"FALSE",,18
+1536,,"FALSE",,8
+1561,1,"TRUE","Fly Fishing",16
+1538,,"FALSE","Trail Running",19
+1539,,"FALSE",,21
+1542,9,"TRUE",,5
+1543,,"FALSE","Climbing",12
+1544,,"FALSE",,18
+1545,,"TRUE","Trail Running",12
+1546,,"FALSE","Climbing",18
+1547,,"TRUE","Surfing",10
+1548,,"TRUE","Trail Running",17
+1549,,"FALSE","Ski/Snowboarding",11
+1554,7,"FALSE",,10
+1555,,"FALSE","Mountain Biking",23
+1556,7,"FALSE","Ski/Snowboarding",20
+1558,,"FALSE","Trail Running",20
+1559,,"TRUE",,14
+1560,,"FALSE","Mountain Biking",19
+1562,,"FALSE","Surfing",11
+1564,9,"TRUE","Ski/Snowboarding",23
+1566,,"FALSE","Surfing",14
+1567,,"FALSE","Trail Running",16
+1568,,"TRUE","Surfing",9
+1569,9,"FALSE","Ski/Snowboarding",23
+1570,,"FALSE","Ski/Snowboarding",14
+1571,3,"FALSE",,17
+1572,,"TRUE",,17
+1574,,"FALSE","Surfing",15
+1575,,"TRUE","Trail Running",14
+1576,,"TRUE",,11
+1577,3,"TRUE","Mountain Biking",17
+1578,,"TRUE","Surfing",17
+1579,,"TRUE","Climbing",16
+1580,,"FALSE","Surfing",13
+1581,,"FALSE",,15
+1582,3,"FALSE","Trail Running",15
+1583,6,"TRUE","Mountain Biking",19
+1585,,"FALSE","Trail Running",19
+1587,,"TRUE",,22
+1588,,"TRUE",,17
+1589,,"FALSE",,17
+1590,,"TRUE","Surfing",16
+1592,,"TRUE","Mountain Biking",15
+1595,,"FALSE","Climbing",21
+1596,,"FALSE","Mountain Biking",17
+1597,7,"TRUE","Ski/Snowboarding",18
+1599,,"FALSE",,22
+1601,,"FALSE",,13
+1602,,"TRUE","Climbing",17
+1605,,"FALSE","Mountain Biking",13
+1606,,"FALSE","Mountain Biking",14
+1608,9,"FALSE","Climbing",14
+1584,,"FALSE","Fly Fishing",13
+1591,,"TRUE","Fly Fishing",22
+1611,,"TRUE","Ski/Snowboarding",25
+1594,,"FALSE","Fly Fishing",17
+1618,,"TRUE","Fly Fishing",17
+1614,5,"TRUE","Surfing",13
+1615,9,"TRUE","Climbing",10
+1620,,"TRUE","Fly Fishing",22
+1617,3,"TRUE","Climbing",18
+1619,,"TRUE","Climbing",18
+1622,,"FALSE","Fly Fishing",21
+1623,2,"FALSE","Ski/Snowboarding",22
+1624,,"FALSE","Fly Fishing",19
+1626,,"FALSE","Ski/Snowboarding",15
+1627,,"TRUE","Surfing",14
+1628,,"TRUE","Surfing",8
+1630,,"TRUE","Trail Running",17
+1631,,"TRUE","Trail Running",17
+1633,,"TRUE","Surfing",14
+1634,,"TRUE","Trail Running",15
+1635,3,"FALSE",,11
+1637,5,"TRUE","Surfing",20
+1638,6,"FALSE",,22
+1639,,"FALSE",,8
+1641,,"FALSE","Trail Running",17
+1642,,"TRUE","Ski/Snowboarding",21
+1643,,"FALSE","Surfing",12
+1644,10,"FALSE","Mountain Biking",13
+1645,,"FALSE",,20
+1647,,"FALSE","Trail Running",8
+1650,,"FALSE","Surfing",17
+1651,4,"FALSE","Ski/Snowboarding",10
+1652,,"FALSE","Mountain Biking",17
+1653,,"TRUE","Mountain Biking",15
+1656,,"FALSE",,16
+1658,1,"FALSE","Climbing",21
+1659,2,"FALSE","Trail Running",13
+1662,6,"TRUE","Trail Running",15
+1664,10,"FALSE","Climbing",18
+1665,,"TRUE","Surfing",18
+1629,10,"FALSE","Fly Fishing",15
+1668,,"TRUE","Surfing",14
+1669,,"TRUE",,21
+1670,,"FALSE","Climbing",16
+1672,,"TRUE","Climbing",13
+1636,,"FALSE","Fly Fishing",13
+1674,,"FALSE",,17
+1675,,"TRUE","Trail Running",16
+1676,,"TRUE",,13
+1677,,"TRUE","Ski/Snowboarding",15
+1640,2,"FALSE","Fly Fishing",18
+1679,,"FALSE",,21
+1654,1,"TRUE","Fly Fishing",15
+1682,3,"TRUE",,22
+1683,2,"TRUE","Ski/Snowboarding",14
+1655,6,"FALSE","Fly Fishing",21
+1660,,"TRUE","Fly Fishing",20
+1671,,"TRUE","Fly Fishing",15
+1681,,"TRUE","Fly Fishing",21
+1686,,"TRUE","Trail Running",16
+1687,5,"TRUE","Climbing",15
+1690,,"TRUE","Mountain Biking",12
+1692,,"FALSE","Climbing",12
+1693,,"FALSE",,9
+1694,5,"TRUE",,15
+1695,,"TRUE","Surfing",16
+1696,2,"FALSE","Ski/Snowboarding",17
+1699,,"FALSE","Trail Running",17
+1700,,"TRUE","Ski/Snowboarding",20
+1701,6,"FALSE","Mountain Biking",15
+1703,,"TRUE","Climbing",22
+1705,,"FALSE",,10
+1706,,"TRUE","Climbing",18
+1707,,"TRUE","Surfing",17
+1708,,"FALSE","Ski/Snowboarding",11
+1710,,"TRUE","Ski/Snowboarding",19
+1711,,"FALSE",,15
+1712,,"TRUE","Climbing",19
+1713,7,"TRUE","Surfing",14
+1714,,"FALSE","Trail Running",13
+1715,5,"FALSE","Surfing",24
+1716,,"TRUE","Mountain Biking",15
+1717,,"TRUE","Ski/Snowboarding",25
+1721,,"FALSE","Climbing",18
+1723,1,"FALSE",,15
+1684,,"FALSE","Fly Fishing",17
+1685,1,"FALSE","Fly Fishing",13
+1727,,"FALSE",,16
+1728,,"TRUE","Climbing",12
+1691,,"TRUE","Fly Fishing",19
+1730,,"FALSE",,17
+1731,,"TRUE","Mountain Biking",13
+1732,7,"TRUE","Surfing",17
+1733,,"TRUE",,16
+1734,1,"FALSE","Trail Running",14
+1736,8,"TRUE","Climbing",18
+1737,,"FALSE","Mountain Biking",18
+1738,2,"FALSE",,19
+1739,,"FALSE","Ski/Snowboarding",11
+1704,10,"FALSE","Fly Fishing",15
+1709,,"FALSE","Fly Fishing",22
+1720,,"TRUE","Fly Fishing",22
+1722,2,"FALSE","Fly Fishing",16
+1735,,"TRUE","Fly Fishing",18
+1740,,"TRUE","Ski/Snowboarding",16
+1741,10,"TRUE","Surfing",20
+1742,5,"TRUE","Trail Running",15
+1743,,"TRUE",,16
+1744,,"TRUE",,20
+1745,,"FALSE","Climbing",12
+1747,9,"FALSE","Mountain Biking",5
+1748,6,"FALSE",,20
+1749,,"FALSE","Climbing",19
+1753,3,"FALSE",,19
+1754,,"FALSE",,12
+1756,,"FALSE","Climbing",21
+1757,,"FALSE","Trail Running",17
+1758,,"FALSE",,18
+1761,7,"TRUE",,17
+1765,9,"FALSE","Ski/Snowboarding",12
+1766,,"TRUE","Ski/Snowboarding",16
+1767,,"TRUE","Climbing",13
+1768,,"TRUE","Surfing",10
+1769,,"TRUE","Trail Running",19
+1772,,"FALSE","Ski/Snowboarding",11
+1773,,"TRUE",,11
+1774,5,"FALSE","Ski/Snowboarding",16
+1775,,"TRUE","Climbing",17
+1776,,"FALSE","Climbing",21
+1777,,"FALSE","Surfing",17
+1778,,"FALSE","Mountain Biking",24
+1779,5,"TRUE","Climbing",10
+1780,1,"TRUE","Mountain Biking",17
+1781,1,"TRUE","Mountain Biking",10
+1746,,"FALSE","Fly Fishing",11
+1783,9,"FALSE","Surfing",15
+1784,8,"FALSE","Climbing",21
+1785,,"FALSE","Mountain Biking",19
+1786,5,"TRUE","Mountain Biking",17
+1787,,"FALSE","Mountain Biking",14
+1788,1,"TRUE","Trail Running",12
+1789,7,"TRUE",,19
+1790,,"TRUE","Trail Running",15
+1791,,"TRUE","Surfing",19
+1792,,"TRUE","Ski/Snowboarding",13
+1793,6,"FALSE","Mountain Biking",16
+1750,3,"TRUE","Fly Fishing",18
+1755,,"FALSE","Fly Fishing",11
+1759,,"TRUE","Fly Fishing",16
+1762,,"TRUE","Fly Fishing",9
+1764,2,"FALSE","Fly Fishing",16
+1794,2,"FALSE","Ski/Snowboarding",13
+1795,2,"FALSE","Ski/Snowboarding",11
+1796,,"TRUE",,19
+1797,1,"FALSE","Mountain Biking",17
+1798,3,"TRUE","Surfing",13
+1799,,"FALSE","Climbing",14
+1800,,"FALSE","Mountain Biking",19
+1801,,"TRUE","Surfing",18
+1806,,"FALSE","Climbing",17
+1807,10,"TRUE",,16
+1808,,"TRUE","Ski/Snowboarding",14
+1810,,"FALSE","Mountain Biking",18
+1811,,"TRUE","Trail Running",9
+1813,,"TRUE","Trail Running",23
+1814,,"FALSE",,14
+1815,,"FALSE","Climbing",15
+1817,,"TRUE",,21
+1818,3,"FALSE","Surfing",21
+1819,9,"FALSE","Mountain Biking",13
+1820,2,"TRUE","Ski/Snowboarding",21
+1823,4,"FALSE","Surfing",13
+1824,,"FALSE",,11
+1825,,"TRUE","Surfing",25
+1828,,"FALSE","Ski/Snowboarding",16
+1832,5,"FALSE","Mountain Biking",15
+1833,,"TRUE","Ski/Snowboarding",16
+1834,,"TRUE","Ski/Snowboarding",15
+1835,,"TRUE","Ski/Snowboarding",10
+1836,,"FALSE","Ski/Snowboarding",14
+1803,,"FALSE","Fly Fishing",7
+1839,,"FALSE",,11
+1840,7,"TRUE","Trail Running",20
+1841,,"TRUE","Ski/Snowboarding",14
+1842,,"FALSE","Climbing",21
+1843,2,"FALSE","Surfing",13
+1844,,"TRUE","Trail Running",21
+1845,,"TRUE","Mountain Biking",20
+1846,,"FALSE","Climbing",19
+1847,,"TRUE","Climbing",17
+1804,,"FALSE","Fly Fishing",14
+1809,6,"TRUE","Fly Fishing",16
+1812,4,"TRUE","Fly Fishing",14
+1816,,"FALSE","Fly Fishing",17
+1821,,"FALSE","Fly Fishing",16
+1848,5,"FALSE","Trail Running",21
+1849,,"TRUE","Ski/Snowboarding",16
+1850,,"TRUE","Ski/Snowboarding",17
+1852,4,"FALSE","Climbing",18
+1853,,"TRUE","Surfing",16
+1857,2,"TRUE","Ski/Snowboarding",23
+1858,,"TRUE","Ski/Snowboarding",15
+1859,,"FALSE","Surfing",16
+1856,9,"TRUE","Fly Fishing",13
+1867,9,"TRUE","Fly Fishing",19
+1862,3,"FALSE","Trail Running",17
+1874,,"TRUE","Fly Fishing",15
+1864,6,"FALSE",,21
+1865,,"FALSE","Surfing",24
+1866,,"FALSE","Mountain Biking",21
+1868,,"TRUE","Mountain Biking",17
+1869,,"FALSE","Mountain Biking",21
+1871,5,"FALSE",,27
+1872,,"FALSE","Ski/Snowboarding",17
+1873,,"TRUE","Surfing",10
+1875,,"TRUE","Ski/Snowboarding",13
+1876,,"FALSE","Surfing",10
+1877,1,"FALSE","Ski/Snowboarding",11
+1878,,"TRUE","Trail Running",16
+1879,3,"TRUE","Mountain Biking",17
+1880,,"TRUE","Climbing",20
+1881,,"TRUE","Mountain Biking",20
+1882,10,"TRUE","Surfing",13
+1883,6,"TRUE","Ski/Snowboarding",14
+1886,1,"FALSE","Mountain Biking",10
+1888,2,"TRUE","Surfing",14
+1889,8,"FALSE","Climbing",12
+1891,,"TRUE",,18
+1892,,"FALSE","Ski/Snowboarding",14
+1893,,"FALSE","Surfing",22
+1894,,"TRUE","Ski/Snowboarding",13
+1895,,"TRUE","Mountain Biking",20
+1896,4,"TRUE","Trail Running",11
+1898,,"TRUE","Mountain Biking",18
+1900,,"FALSE","Mountain Biking",10
+1901,,"TRUE","Mountain Biking",12
+1904,,"FALSE",,22
+1905,,"FALSE","Surfing",22
+1906,1,"FALSE","Mountain Biking",8
+1907,,"TRUE","Mountain Biking",15
+1908,,"TRUE","Ski/Snowboarding",14
+1912,,"TRUE","Surfing",20
+1914,,"TRUE","Trail Running",15
+1915,,"TRUE","Surfing",16
+1916,10,"FALSE","Mountain Biking",9
+1917,5,"FALSE","Mountain Biking",15
+1918,3,"FALSE",,23
+1919,,"TRUE",,23
+1920,,"FALSE",,17
+1922,1,"FALSE","Surfing",11
+1924,,"TRUE","Ski/Snowboarding",23
+1927,6,"TRUE","Trail Running",13
+1928,3,"FALSE","Trail Running",15
+1930,7,"FALSE","Ski/Snowboarding",13
+1903,,"FALSE","Fly Fishing",23
+1932,10,"FALSE","Ski/Snowboarding",16
+1933,4,"FALSE",,19
+1934,,"TRUE","Mountain Biking",15
+1911,6,"FALSE","Fly Fishing",6
+1937,,"FALSE","Ski/Snowboarding",17
+1938,10,"FALSE","Climbing",14
+1939,8,"TRUE","Ski/Snowboarding",15
+1940,,"TRUE","Trail Running",20
+1926,,"FALSE","Fly Fishing",22
+1943,6,"FALSE",,19
+1944,,"TRUE","Trail Running",15
+1946,,"FALSE",,22
+1947,6,"FALSE","Surfing",20
+1948,5,"TRUE","Trail Running",11
+1936,,"TRUE","Fly Fishing",15
+1951,,"FALSE",,12
+1952,,"TRUE","Ski/Snowboarding",20
+1954,,"TRUE","Climbing",15
+1955,,"TRUE","Mountain Biking",16
+1942,,"TRUE","Fly Fishing",10
+1945,,"FALSE","Fly Fishing",16
+1950,,"FALSE","Fly Fishing",13
+1953,,"TRUE","Fly Fishing",18
+1956,1,"TRUE","Trail Running",16
+1957,,"TRUE","Climbing",22
+1958,7,"TRUE","Climbing",13
+1960,3,"TRUE","Surfing",8
+1961,,"TRUE","Trail Running",16
+1962,4,"TRUE","Climbing",22
+1964,,"TRUE",,13
+1966,,"FALSE",,19
+1968,4,"TRUE","Mountain Biking",15
+1969,,"FALSE","Trail Running",17
+1970,,"TRUE",,17
+1974,,"TRUE","Trail Running",12
+1976,,"TRUE",,16
+1977,,"TRUE",,18
+1980,,"FALSE","Surfing",10
+1982,1,"FALSE","Mountain Biking",15
+1983,,"TRUE",,7
+1984,9,"TRUE","Trail Running",12
+1985,,"TRUE","Trail Running",18
+1986,8,"FALSE","Surfing",7
+1987,,"FALSE",,18
+1990,6,"FALSE",,11
+1991,,"FALSE","Trail Running",11
+1992,,"TRUE","Mountain Biking",17
+1993,,"TRUE",,17
+1995,10,"FALSE","Surfing",18
+1996,,"FALSE","Surfing",14
+1965,8,"FALSE","Ski/Snowboarding",16
+1999,,"FALSE","Mountain Biking",20
+1967,9,"FALSE","Surfing",16
+1971,8,"TRUE","Trail Running",20
+1959,,"FALSE","Fly Fishing",11
+1963,,"TRUE","Fly Fishing",10
+1972,,"FALSE","Fly Fishing",14
+1997,,"TRUE","Fly Fishing",11
+1979,1,"TRUE","Mountain Biking",14
+1981,6,"TRUE","Surfing",14
+1988,1,"TRUE","Surfing",8
+1989,10,"FALSE","Surfing",18
+1994,6,"TRUE","Ski/Snowboarding",11
+2000,,"FALSE","Surfing",15
+1975,,"TRUE","Fly Fishing",20
+1978,4,"FALSE","Fly Fishing",25
